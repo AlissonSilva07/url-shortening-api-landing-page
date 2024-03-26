@@ -1,7 +1,10 @@
+import Home from "./modules/Home"
+
 function App() {
 
   return (
     <>
+      <Home />
     </>
   )
 }
