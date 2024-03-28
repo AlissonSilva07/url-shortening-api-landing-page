@@ -13,7 +13,7 @@ const Navigation = () => {
 
   return (
     <>
-      <nav className="bg-white fixed top-0 right-0 left-0 h-20 flex items-center px-6 lg:px-20 2xl:px-32 gap-8 justify-between">
+      <nav className="bg-white fixed top-0 right-0 left-0 h-20 flex items-center px-6 md:px-32 gap-8 justify-between">
         <AppIcon />
 
         <div className="hidden flex-1 sm:flex items-center gap-4">
