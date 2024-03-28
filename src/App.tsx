@@ -3,7 +3,7 @@ import Home from "./modules/Home"
 function App() {
 
   return (
-    <div>
+    <div className="h-screen">
       <Home />
     </div>
   )
