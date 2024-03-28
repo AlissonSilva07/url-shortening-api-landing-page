@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {
+      backgroundImage: {
+        'bg-shorten': "url('/src/assets/bg-shorten-mobile.svg')"
+      },
       colors: {
         // Primary
         "cyan": "#2acfcf",
